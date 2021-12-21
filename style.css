@@ -1,0 +1,25 @@
+h1{
+color: lime;
+}
+*{
+border: solid;
+}
+
+.header{
+background-color: magenta;
+font-size: medium;
+justify-content:center;
+display: flex;
+}
+
+.grid{
+border:chocolate;
+justify-content: right;
+background-color: coral;
+}
+
+.origami{
+text-transform:capitalize;
+display: flex;
+justify-content:space-between;
+}
